@@ -80,11 +80,11 @@ project/
 ## 📊 Results
 
 **Best Model:** Random Forest  
-- **Test R²:** 0.81  
-- **Test RMSE:** \$48,215  
-- **95% Confidence Interval:** ± \$1,850
-
+- **Test R²:** 0.83
+- **Test RMSE:** \$47708  
 ---
+
+
 
 ## 📦 Requirements
 
